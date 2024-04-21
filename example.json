@@ -1,0 +1,11 @@
+{
+    "person": {
+        "name": "TheRotBoard",
+        "hobbies": [
+            {
+                "activity": "pickleball",
+                "levelOfInterest": 10
+            }
+        ]
+    }
+}
